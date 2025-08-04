@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>CHEAT GAMING - Codes de triche pour gamers</title>
+  <style>
+    body {
+      background-color: #121212;
+      color: #e0e0e0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #1f1f1f;
+      padding: 20px;
+      text-align: center;
+      border-bottom: 2px solid #00ffcc;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5em;
+      color: #00ffcc;
+    }
+    header p {
+      margin: 5px 0 0;
+      font-size: 1.2em;
+      color: #a0a0a0;
+    }
+    nav {
+      margin-top: 15px;
+    }
+    nav a {
+      color: #00ffcc;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    main {
+      padding: 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+    section.game {
+      background-color: #1e1e1e;
+      border-radius: 10px;
+      padding: 15px;
+      margin-bottom: 20px;
+      box-shadow: 0 0 10px #00ffcc44;
+    }
+    section.game h2 {
+      margin-top: 0;
+      color: #00ffcc;
+    }
+    footer {
+      text-align: center;
+      padding: 15px;
+      font-size: 0.9em;
+      color: #555;
+      border-top: 1px solid #333;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>CHEAT GAMING</h1>
+    <p>Codes de triche gratuits pour tous les gamers</p>
+    <nav>
+      <a href="#">Accueil</a>
+      <a href="#">Jeux</a>
+      <a href="#">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Jeux populaires et leurs codes de triche</h2>
+
+    <section class="game">
+      <h2>GTA V (PC)</h2>
+      <ul>
+        <li><strong>FUGITIVE</strong> : Augmente le niveau de recherche</li>
+        <li><strong>HOTHANDS</strong> : Coups de poing explosifs</li>
+      </ul>
+    </section>
+
+    <section class="game">
+      <h2>Red Dead Redemption 2 (PS4)</h2>
+      <ul>
+        <li>R1, R1, Cercle, R1, Gauche, Droite, Gauche, Droite, L2, L1</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2025 CHEAT GAMING - Tous droits réservés
+  </footer>
+</body>
+</html>
